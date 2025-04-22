@@ -24,9 +24,14 @@
   background-color: #0d6364;
 }
  
+.navbar1-navlink1 {
+  display: contents;
+}
+ 
 .navbar1-image1 {
   width: 94px;
   height: 90px;
+  text-decoration: none;
 }
  
 .navbar1-desktop-menu {
@@ -69,7 +74,7 @@
   flex-direction: row;
 }
  
-.navbar1-navlink {
+.navbar1-navlink2 {
   display: contents;
 }
  
@@ -454,17 +459,6 @@
   text-align: center;
 }
  
-.signup-fragment17 {
-  display: contents;
-}
- 
-.signup-text17 {
-  display: inline-block;
-  font-style: normal;
-  font-family: "Open Sans";
-  font-weight: 700;
-}
- 
 .signup-fragment18 {
   display: contents;
 }
@@ -481,12 +475,23 @@
   display: inline-block;
 }
  
+.signup-fragment17 {
+  display: contents;
+}
+ 
+.signup-text17 {
+  display: inline-block;
+}
+ 
 .signup-fragment20 {
   display: contents;
 }
  
 .signup-text20 {
   display: inline-block;
+  font-style: normal;
+  font-family: "Open Sans";
+  font-weight: 700;
 }
  
 @media(max-width: 479px) {
@@ -682,9 +687,6 @@
  
 .signup-text17 {
   display: inline-block;
-  font-style: normal;
-  font-family: "Open Sans";
-  font-weight: 700;
 }
  
 .signup-fragment18 {
@@ -709,4 +711,7 @@
  
 .signup-text20 {
   display: inline-block;
+  font-style: normal;
+  font-family: "Open Sans";
+  font-weight: 700;
 }

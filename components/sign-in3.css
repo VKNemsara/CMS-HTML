@@ -236,6 +236,9 @@
  
 .sign-in3-text19 {
   display: inline-block;
+  font-style: normal;
+  font-family: "Open Sans";
+  font-weight: 700;
 }
  
 .sign-in3-fragment4 {
@@ -244,9 +247,6 @@
  
 .sign-in3-text20 {
   display: inline-block;
-  font-style: normal;
-  font-family: "Open Sans";
-  font-weight: 700;
 }
  
 @media(max-width: 991px) {

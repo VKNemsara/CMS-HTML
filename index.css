@@ -24,9 +24,14 @@
   background-color: #0d6364;
 }
  
+.navbar1-navlink1 {
+  display: contents;
+}
+ 
 .navbar1-image1 {
   width: 94px;
   height: 90px;
+  text-decoration: none;
 }
  
 .navbar1-desktop-menu {
@@ -69,7 +74,7 @@
   flex-direction: row;
 }
  
-.navbar1-navlink {
+.navbar1-navlink2 {
   display: contents;
 }
  

@@ -24,9 +24,14 @@
   background-color: #0d6364;
 }
  
+.navbar1-navlink1 {
+  display: contents;
+}
+ 
 .navbar1-image1 {
   width: 94px;
   height: 90px;
+  text-decoration: none;
 }
  
 .navbar1-desktop-menu {
@@ -69,7 +74,7 @@
   flex-direction: row;
 }
  
-.navbar1-navlink {
+.navbar1-navlink2 {
   display: contents;
 }
  
@@ -478,11 +483,11 @@
   background-color: rgba(0,0,0,0.4);
 }
  
-.login-fragment17 {
+.login-fragment19 {
   display: contents;
 }
  
-.login-text17 {
+.login-text19 {
   display: inline-block;
 }
  
@@ -491,14 +496,6 @@
 }
  
 .login-text18 {
-  display: inline-block;
-}
- 
-.login-fragment19 {
-  display: contents;
-}
- 
-.login-text19 {
   display: inline-block;
 }
  
@@ -511,6 +508,14 @@
   font-style: normal;
   font-family: "Open Sans";
   font-weight: 700;
+}
+ 
+.login-fragment17 {
+  display: contents;
+}
+ 
+.login-text17 {
+  display: inline-block;
 }
  
 @media(max-width: 991px) {
