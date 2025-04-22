@@ -65,9 +65,14 @@
   flex-direction: row;
 }
  
+.navbar1-navlink {
+  display: contents;
+}
+ 
 .navbar1-icon10 {
   width: 65px;
   height: 60px;
+  text-decoration: none;
 }
  
 .navbar1-burger-menu {
